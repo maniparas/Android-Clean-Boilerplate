@@ -1,7 +1,6 @@
 package com.kodelabs.boilerplate.presentation.ui.activities;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 
 import com.kodelabs.boilerplate.R;
 import com.kodelabs.boilerplate.presentation.presenters.MainPresenter.View;
